@@ -1,0 +1,1 @@
+{"version":1,"defects":{"RTBBannerBidderTest::testParseBidRequest":8,"RTBBannerBidderTest::testSelectBestCampaign":8},"times":{"RTBBannerBidderTest::testParseBidRequest":0.001,"RTBBannerBidderTest::testSelectBestCampaign":0.001}}
